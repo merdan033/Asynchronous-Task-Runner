@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Process payment",
+    "type": "financial",
+    "duration": 500,
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "name": "Send email notification",
+    "type": "communication",
+    "duration": 300,
+    "priority": "medium"
+  },
+  {
+    "id": 3,
+    "name": "Generate report",
+    "type": "data",
+    "duration": 800,
+    "priority": "high"
+  },
+  {
+    "id": 4,
+    "name": "Update user profile",
+    "type": "database",
+    "duration": 400,
+    "priority": "low"
+  },
+  {
+    "id": 5,
+    "name": "Validate input data",
+    "type": "validation",
+    "duration": 200,
+    "priority": "high"
+  },
+  {
+    "id": 6,
+    "name": "Cache refresh",
+    "type": "system",
+    "duration": 600,
+    "priority": "medium"
+  },
+  {
+    "id": 7,
+    "name": "Invalid task (for error handling demo)",
+    "type": "error",
+    "duration": 100,
+    "priority": "high"
+  }
+]
+

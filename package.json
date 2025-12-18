@@ -1,0 +1,25 @@
+{
+  "name": "asynchronous-task-runner",
+  "version": "1.0.0",
+  "description": "A professional Node.js task runner demonstrating callbacks, Promises, and async/await patterns",
+  "main": "taskRunner.js",
+  "scripts": {
+    "start": "node taskRunner.js",
+    "server": "node server.js",
+    "frontend": "node server.js",
+    "test": "node taskRunner.js"
+  },
+  "keywords": [
+    "async",
+    "callbacks",
+    "promises",
+    "async-await",
+    "task-runner"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
+
